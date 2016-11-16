@@ -18,10 +18,6 @@
             </intent-filter>
         </activity>
 
-        <activity
-            android:name=".PrintDialogActivity"
-            android:configChanges="orientation"
-            android:theme="@style/AppTheme" />
     </application>
 
 </manifest>
